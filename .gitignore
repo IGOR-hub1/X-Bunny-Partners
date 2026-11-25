@@ -1,0 +1,8 @@
+public/index.html
+public/firebase-config.js
+public/site-config.js
+public/login-config.js
+public/login.js
+public/login.css
+public/panel.css
+.vercel/

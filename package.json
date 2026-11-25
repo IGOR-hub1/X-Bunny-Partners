@@ -1,0 +1,7 @@
+{
+  "name": "x-bunny-partners",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {"build": "node ../x-bunny-shared/build.mjs partners", "check": "node --check api/affiliates.mjs", "test": "node --test ../x-bunny-shared/*.test.js"},
+  "engines": {"node": ">=18"}
+}
